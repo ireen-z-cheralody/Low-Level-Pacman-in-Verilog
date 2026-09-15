@@ -1,4 +1,4 @@
-# ECE241 Final Project — Pac-Man
+# Low-Level Pac-Man
 
 ## Project Description
 
