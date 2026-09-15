@@ -77,3 +77,8 @@ Several implementation issues were identified and fixed during development, incl
 - **PS/2 Keyboard** — player input
 - **HEX Display** — score output
 - **FPGA hardware** — movement, collision, scoring, and game-state logic
+
+## Author
+
+**Ireen Cheralody**  
+University of Toronto — Computer Engineering + PEY Co-op
