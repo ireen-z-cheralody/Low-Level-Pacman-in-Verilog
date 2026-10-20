@@ -29,6 +29,10 @@ The player controls Pac-Man through a maze, collecting coins while avoiding a mo
 
 ## Implementation
 
+### Demo
+
+https://github.com/user-attachments/assets/ffa39893-460d-4dd7-b6b7-8127d2abe065
+
 ### VGA Graphics
 
 The game uses the DE1-SoC's **VGA display** to render the maze and game objects. A static maze background is combined with moveable objects such as Pac-Man, the ghost, and coins.
